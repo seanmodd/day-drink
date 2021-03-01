@@ -13,6 +13,7 @@ $ cd leerob.io
 ```
 
 Set GraphQL URL for Apollo Client by adding the following field to `.env` file.
+
 ```
 GRAPHQL_URL=
 ```

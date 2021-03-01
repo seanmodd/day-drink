@@ -2,11 +2,19 @@ import React, {useState, useEffect, useContext, createContext} from 'react';
 import queryString from 'query-string';
 import * as firebase from 'firebase/app';
 import 'firebase/auth';
+import firebaseConfig from '../.env.local'
 
-import prod from '../.firebase/prod.json';
+// var myFirebaseConfig = {
+//     apiKey: "AIzaSyDKI4ddUiilkLhoXoSnhX6V2cE3-YEtSR0",
+//     authDomain: "daydrinknext.firebaseapp.com",
+//     projectId: "daydrinknext",
+//     storageBucket: "daydrinknext.appspot.com",
+//     messagingSenderId: "499690580358",
+//     appId: "1:499690580358:web:299970e9af27a7f5212407"
+//   };
 
 if (!firebase.apps.length) {
-    firebase.initializeApp(prod);
+    firebase.initializeApp(firebaseConfig);
 }
 
 const authContext = createContext();

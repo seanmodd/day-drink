@@ -1,0 +1,47 @@
+[
+    {
+        "type": "Group",
+        "name": "favFiles",
+        "parent_id": null,
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "xyRZmC5kYFuqGlNX",
+        "iconColor": "rgb(0, 255, 0)"
+    },
+    {
+        "type": "Directory",
+        "name": "/Users/seanmodd/Development/2021/daydrink/daydrink/utils",
+        "parent_id": "xyRZmC5kYFuqGlNX",
+        "fsPath": "/Users/seanmodd/Development/2021/daydrink/daydrink/utils",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "m4xUoRuy0NEGiWfO"
+    },
+    {
+        "type": "Directory",
+        "name": "/Users/seanmodd/Development/2021/daydrink/daydrink/components",
+        "parent_id": "xyRZmC5kYFuqGlNX",
+        "fsPath": "/Users/seanmodd/Development/2021/daydrink/daydrink/components",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "tTryxNRCvfQJpVPe"
+    },
+    {
+        "type": "File",
+        "name": "/Users/seanmodd/Development/2021/daydrink/daydrink/package.json",
+        "parent_id": "xyRZmC5kYFuqGlNX",
+        "fsPath": "/Users/seanmodd/Development/2021/daydrink/daydrink/package.json",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "FSIMo0BKmselv31J"
+    },
+    {
+        "type": "Directory",
+        "name": "/Users/seanmodd/Development/2021/daydrink/daydrink/pages",
+        "parent_id": "xyRZmC5kYFuqGlNX",
+        "fsPath": "/Users/seanmodd/Development/2021/daydrink/daydrink/pages",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "KDF3yJMGAi20ZfWR"
+    }
+]
